@@ -2,9 +2,15 @@
 
 ## Ausgangslage
 
-Das Dashboard aus deinen Screenshots (LeadPilot Enterprise: Executive Dashboard, Live-Simulation Ebene B, Sidebar, Simulations-Topbar) liegt nicht in diesem Lovable-Projekt — hier ist nur der leere Startzustand. Der Klon von `github.com/mapoenisch/realtime-dashboard-refresh` schlägt fehl, weil das Repository privat ist.
+Das Dashboard aus deinen Screenshots (LeadPilot Enterprise: Executive Dashboard, Live-Simulation Ebene B, Sidebar, Simulations-Topbar) liegt nicht in diesem Lovable-Projekt. Der Klon von `github.com/mapoenisch/realtime-dashboard-refresh` funktioniert inzwischen, enthält aber nur den leeren Template-Stand (ein Commit, kein Dashboard-Code) — das Repo ist offenbar mit einem leeren Projekt verbunden, nicht mit dem LeadPilot-Dashboard.
 
-**Schritt 0 (nötig, bevor ich Code anfasse):** Repo zugänglich machen — entweder das GitHub-Repo über Git-Sync mit diesem Projekt verbinden, oder das Repo kurzzeitig öffentlich stellen, oder mir den relevanten Code als ZIP hochladen. Sobald der Code da ist, setze ich das Redesign unten um.
+**Schritt 0 (nötig, bevor ich Code anfasse) — eine dieser drei Optionen:**
+
+1. **Code als ZIP hier hochladen** (schnellster Weg): Im LeadPilot-Projekt den Code-Editor öffnen → „Download codebase" → ZIP hier in den Chat ziehen.
+2. **Das LeadPilot-Lovable-Projekt mit diesem Repo verbinden** und synchronisieren lassen, dann klone ich es erneut.
+3. **Das richtige Lovable-Projekt öffnen** und mich dort um das Redesign bitten.
+
+Sobald der Code erreichbar ist, setze ich das Redesign unten um. Alle Design-Entscheidungen sind bereits aus den Screenshots abgeleitet und bleiben gültig.
 
 Die Design-Analyse und alle Entscheidungen sind bereits aus den Screenshots abgeleitet und gelten unverändert.
 
